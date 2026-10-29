@@ -1,7 +1,8 @@
 # Educator Batch Compilation and Feedback Platform
 
-This is a desktop app made to help teachers check student programming assignments more easily. It runs each student’s compiler, processes the generated intermediate and assembly files, collects the results, and displays a summary of what worked and what didn’t. It can also check for plagiarism by comparing code between students.
+A desktop application designed to help teachers evaluate student programming assignments more efficiently. It runs each student’s compiler, processes the generated intermediate and assembly files, collects results, and provides a summary of successful executions and errors. It also supports plagiarism detection by comparing code submissions between students.
 
+The project also includes a [Student Assignment Submission and Management System](https://github.com/Felicia-Doumani/Submission-and-Management-System-for-Student-Assignments), which allows students to submit and manage their assignments.
 
 ---
 
